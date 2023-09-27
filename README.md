@@ -19,7 +19,6 @@
 - RF16: Caso contrário, ocorre um empate entre os fazendeiros;
 
 ### Modelo de Casos de Uso
-INSERIR IMAGEM
 
 ![diagram_caso_de_uso](https://raw.githubusercontent.com/pinkskirts/kalah-game/master/public/diagrama_caso_de_uso.png)
 
@@ -30,11 +29,11 @@ INSERIR IMAGEM
 
 <Diagramas de classes>
   
-- INSERIR IMAGEM
+![diagram_caso_de_uso](https://raw.githubusercontent.com/pinkskirts/kalah-game/master/public/diagrama_objeto.png)
 
 <Diagramas de atividades>
   
-- INSERIR IMAGEM
+![diagram_caso_de_uso](https://raw.githubusercontent.com/pinkskirts/kalah-game/master/public/diagrama_atividade.png)
   
 <Outros diagramas>
   
