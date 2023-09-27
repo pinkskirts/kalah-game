@@ -21,7 +21,7 @@
 ### Modelo de Casos de Uso
 INSERIR IMAGEM
 
-https://github.com/pinkskirts/kalah-game/blob/master/public/diagrama_caso_de_uso.png
+![diagram_caso_de_uso](https://raw.githubusercontent.com/pinkskirts/kalah-game/master/public/diagrama_caso_de_uso.png)
 
 ### Critérios de Avaliação
 
